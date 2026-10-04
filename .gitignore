@@ -1,0 +1,7 @@
+!.gitignore
+!README.md
+!404.html
+!*.conf
+!*.png
+!*.jpg
+.env
